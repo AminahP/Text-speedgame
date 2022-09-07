@@ -1,3 +1,8 @@
+//add Alphabet border 
+// problem, not showing random quotes 
+//need to take 3 seconds off when a letter is missed 
+
+
 // define the time limit
 let TIME_LIMIT = 60;
 
